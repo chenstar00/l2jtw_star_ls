@@ -5,6 +5,9 @@ L2Jstar Server: Login
 
 <!-- # ![](./src/main/resources/l2j-server-login-logo_256x256.png) -->
 
+使用 l2jserver HighFive 版本更新
+使用10幾年前的 l2jtw 中文化來做編譯版本 
+兩者融合成為 l2jstar 版本
 
 Links
 ---
