@@ -12,7 +12,7 @@ L2Jstar Server: Login
 Links
 ---
 
-- [ l2jstar 天星網論壇 ](http://chenstar.clouds.tw/index.php?i=1)
+- [新卓越天堂 2 - SF - 嗨翻天 ](https://l2j-excellent.666forum.com/)
 
 <!-- # - [Forums](http://www.l2jserver.com/forum/)
 
